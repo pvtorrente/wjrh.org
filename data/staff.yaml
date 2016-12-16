@@ -1,12 +1,40 @@
 ---
 board2017:
-  - name:  example
+  - name:  Natalie Soler
     year:  19
-    role:  Recording Studio  
+    role:  General Manager 
 
-  - name:  example2
+  - name:  Michelle Polton-Simon
+    year:  18
+    role:  Vice General Manager
+    
+  - name:  Jake Cobleigh
+    year:  19
+    role:  Treasurer  
+
+  - name:  Ben Jordan
+    year:  19
+    role:  Secretary
+    
+  - name:  Xaviera Thomas
+    year:  19
+    role:  Events Director
+    
+  - name:  Reanna Kier
+    year:  19
+    role:  Public Relations Director    
+
+  - name:  Lauren Parkinson
     year:  20
-    role:  Recording Studio
+    role:  Community Outreach Director
+    
+  - name:  Neil McEnerney
+    year:  20
+    role:  Music Director 
+    
+  - name:  Dilge Dilsiz
+    year:  19
+    role:  Program Director     
     
 board2016:
   - name:  Joe Sluke
